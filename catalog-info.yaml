@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: test-code4
 
-  description: "No description provided."
+  description: "Provides enhanced functionalities for testing code, serving developers looking to improve their testing processes."
   annotations:
     github.com/project-slug: nimeshjain1/test-code4
     backstage.io/techdocs-ref: dir:.
