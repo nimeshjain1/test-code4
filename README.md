@@ -2,8 +2,7 @@
 
 ## Description
 
-TODO: Write one or two sentences describing what this service does. The Catalog Reconciliation Agent reads this section and keeps catalog-info.yaml in sync with it.
-
+Here is the new description of this file. we have added a couple of additional functionalities. 
 ## Ownership
 
 Owned by `user:default/nimeshjain1`.
