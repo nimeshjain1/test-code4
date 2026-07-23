@@ -1,0 +1,10 @@
+{
+  "name": "test-code4",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "echo \"no tests yet\" && exit 0"
+  }
+}

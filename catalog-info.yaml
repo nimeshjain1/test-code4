@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-code4
+  
+  description: ''
+  
+  annotations:
+    github.com/project-slug: nimeshjain1/test-code4
+    backstage.io/techdocs-ref: dir:.
+    catalog-agent/auto-heal: 'true'
+    catalog-agent/healing-mode: 'pull-request'
+    catalog-agent/readme-path: 'README.md'
+  tags:
+    - experimental
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:default/nimeshjain1
+  
