@@ -2,9 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-code4
-  
-  description: ''
-  
+
+  description: "No description provided."
   annotations:
     github.com/project-slug: nimeshjain1/test-code4
     backstage.io/techdocs-ref: dir:.
@@ -17,4 +16,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: user:default/nimeshjain1
-  
+
