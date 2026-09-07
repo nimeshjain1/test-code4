@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: test-code4
 
-  description: "A JavaScript service named test-code4, hosted in nimeshjain1/test-code4."
+  description: "Performs basic arithmetic operations by providing functions to add and subtract numbers."
   annotations:
     github.com/project-slug: nimeshjain1/test-code4
     backstage.io/techdocs-ref: dir:.
